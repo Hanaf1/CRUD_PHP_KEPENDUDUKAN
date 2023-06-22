@@ -1,4 +1,5 @@
 <?php
+// Muhammad Nor Hanafi 202251069 B
 // Konfigurasi koneksi ke database
 $servername = "localhost";
 $username = "root";
