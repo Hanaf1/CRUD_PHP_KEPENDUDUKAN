@@ -1,4 +1,4 @@
-# social_activy_schedule_crud_php
+# GET STARTED
 use php, mysql, and bootstrap
 
 ![Alt Text](E:\TAMBAH.png)
