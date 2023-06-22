@@ -1,4 +1,4 @@
 # GET STARTED
 use php, mysql, and bootstrap
 
-![Alt Text](E:\TAMBAH.png)
+![Alt Text](public/login.png)
